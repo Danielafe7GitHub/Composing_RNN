@@ -4075,7 +4075,7 @@ ne 827#He's like yeah he would wait a couple of weeks and delete her.
 ne 829#but it happened.
 dg 832#And I hate these mistakes I do.
 ne 834#because then afterwards I had a BIG HEADACHE!
-dg 835#Man# I hate it.
+dg 835#Man I hate it.
 ne 836#But i feel okay.
 ne 837#Ehh.
 sd 842#Ill miss you always forever and ever.
